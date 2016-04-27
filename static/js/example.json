@@ -1,0 +1,11 @@
+{ "popups":[
+	{
+		"type": "img",
+		"height": 200,
+		"width": 400,
+		"interaction_type": "click",
+		"data": {
+			"src": "example.png"
+		}
+	}
+]}
